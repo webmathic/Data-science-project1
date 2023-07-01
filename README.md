@@ -1,5 +1,5 @@
 # Data-science-project1
-use R programming to predict the overall condition and sales price of a house, you can use the following machine learning algorithms:
+use R programming to predict the overall condition and sales price of a house, i use the following machine learning algorithms:
 
 Multinomial Logistic Regression: Suitable for predicting the overall condition, this algorithm models categorical variables with multiple classes.
 
